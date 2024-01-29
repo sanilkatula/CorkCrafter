@@ -28,8 +28,8 @@ To use CorkCrafter, follow these steps:
 Contributions to CorkCrafter are welcome. Please refer to the contributing guidelines for more information.
 
 ## Sources
-Data Set - https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
-Software used - https://www.singlestore.com/spaces/
+- **Data Set** - https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+- **Software used** - https://www.singlestore.com/spaces/
 
 ---
 
